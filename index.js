@@ -1,6 +1,5 @@
 ﻿let main = document.querySelector("main");
-//TODO: change this to Oct 5 when you're done testing!
-let startDate = new Date("October 1, 2022");
+let startDate = new Date("October 5, 2022");
 let now = Date.now();
 
 let tinyThingTitles = [
