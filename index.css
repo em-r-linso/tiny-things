@@ -30,8 +30,8 @@ main {
 
 .label {
 	position: absolute;
-	padding: 5px;
-	width: 180px;
 	background: white;
-	text-align: center;
+	margin: 5px;
+	width: 190px;
+	text-align: left;
 }
